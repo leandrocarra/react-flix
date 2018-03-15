@@ -13,6 +13,11 @@ OS X & Linux:
 yarn install or npm install
 ```
 
+You can run server with
+```sh
+yarn start or npm start
+```
+
 ## Development setup
 
 To simulate how api works, you will need ```json-server```, you can get [here](https://github.com/typicode/json-server)
