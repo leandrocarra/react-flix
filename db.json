@@ -1,0 +1,23 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "undefined",
+      "status": "",
+      "genre": "",
+      "comments": "undefined"
+    },
+    {
+      "id": 2,
+      "name": "comedy",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "comedy"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Action"
+  ]
+}
